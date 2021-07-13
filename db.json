@@ -1,23 +1,25 @@
-[
-  {
-    "id": 0,
-    "description": "NFT-Faia",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "NFT Faia 0"
-  },
-  {
-    "id": 1,
-    "description": "NFT-Faia",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "NFT Faia 1"
-  },
-  {
-    "id": 2,
-    "description": "NFT-Faia",
-    "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "NFT Faia 2"
-  }
-]
+{
+"tokens": [
+      {
+        "id": 0,
+        "description": "NFT-Faia",
+        "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+        "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+        "name": "NFT Faia 0"
+      },
+      {
+        "id": 1,
+        "description": "NFT-Faia",
+        "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+        "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+        "name": "NFT Faia 1"
+      },
+      {
+        "id": 2,
+        "description": "NFT-Faia",
+        "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+        "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+        "name": "NFT Faia 2"
+      }
+    ]
+}
